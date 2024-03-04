@@ -1,0 +1,1 @@
+# Censo22CoordenadasGeograficas
