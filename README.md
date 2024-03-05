@@ -16,12 +16,19 @@ Nas tabelas originais você vai encontrar as seguintes variáveis:
 **COD_ESPECIE (VARCHAR)** = Variável alfanumérica com a categoria e descrição da espécie do endereço e que podem ser:
 
   1=Domicílio particular
+  
   2=Domicílio coletivo
+  
   3=Estabelecimento agropecuário
+  
   4=Estabelecimento de ensino
+  
   5=Estabelecimento de saúde
+  
   6=Estabelecimento de outras finalidades
+  
   7=Edificação em construção
+  
   8=Estabelecimento religioso
   
 **LATITUDE** =  Variávem com a Latitude da Coordenada de Localização da Espécie do Endereço;
@@ -31,10 +38,15 @@ Nas tabelas originais você vai encontrar as seguintes variáveis:
 **NV_GEO_COORD** = Variável com o nível de geocodificação do domicílio ou estabelecimento que podem ser:
 
   1=Endereço - coordenada original do Censo 2022
+  
   2=Endereço - coordenada modificada (apartamentos em um mesmo número no logradouro*)
+  
   3=Endereço - coordenada estimada (endereços originalmente sem coordenadas ou coordenadas inválidas**)
+  
   4=Face de quadra
+  
   5=Localidade
+  
   6=Setor censitário
 
 <h3>Data source</h3>
