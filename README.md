@@ -7,7 +7,7 @@ O objetivo dessa dashboard foi utilizar os dados de coordenadas geográficas dis
 
 Para que a dashboard pudesse ser construída, foi elaborado um processo de ETL para a normalização dos dados e para que se pudessem ser correlacionadas estas informações com outras tabelas no Banco de Dados Relacional. Com isso foi possível de se obter uma tabela com os nomes dos municípios do estado do Acre e as coordenadas dos domicílios, o que permitiu a representação destas junto ao Looker Studio.
 
-<h4>Nas tabelas originais você vai encontrar as seguintes variáveis que fazem a Descrição dos Dados:</h4>
+<h4>Nas tabelas originais você vai encontrar as seguintes variáveis:</h4>
 
 
 **COD_UF (NUMERIC)** = Variável numérica com o código da unidade federativa;
