@@ -53,10 +53,6 @@ Para que a dashboard pudesse ser construída, foi elaborado um processo de ETL p
 <h4 align="center"><a href="https://lookerstudio.google.com/reporting/29cb3a4c-5ab0-4275-b254-ff0b83562033">  👇 Clique na imagem para acessar o Dashboard. </a></h4>
 <a href="https://lookerstudio.google.com/reporting/29cb3a4c-5ab0-4275-b254-ff0b83562033" target="_blank" rel="noreferrer"> <img src="https://github.com/earapanos/Censo22CoordenadasGeograficas/assets/52800638/5919327f-9538-4a53-9a41-304388f35175" alt="dashboard"> </a> 
 
-<h3>Data source</h3>
-
-<a href="https://www.ibge.gov.br/estatisticas/sociais/populacao/38734-cadastro-nacional-de-enderecos-para-fins-estatisticos.html?edicao=38891&t=resultados">Todos os dados de domicílios disponibilizados pelo IBGE podem ser acessados aqui!</a>
-
 
 
 
