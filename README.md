@@ -10,8 +10,11 @@ Para que a dashboard pudesse ser construída, foi elaborado um processo de ETL p
 Nas tabelas originais você vai encontrar as seguintes variáveis:
 
 **COD_UF (NUMERIC)** = Variável numérica com o código da unidade federativa;
+
 **COD_MUN (NUMERIC)** = Variável numérica com o código do município;
+
 **COD_ESPECIE (VARCHAR)** = Variável alfanumérica com a categoria e descrição da espécie do endereço e que podem ser:
+
   1=Domicílio particular
   2=Domicílio coletivo
   3=Estabelecimento agropecuário
@@ -20,9 +23,13 @@ Nas tabelas originais você vai encontrar as seguintes variáveis:
   6=Estabelecimento de outras finalidades
   7=Edificação em construção
   8=Estabelecimento religioso
+  
 **LATITUDE** =  Variávem com a Latitude da Coordenada de Localização da Espécie do Endereço;
+
 **LONGITUDE** = Variávem com a Longitude da Coordenada de Localização da Espécie do Endereço;
+
 **NV_GEO_COORD** = Variável com o nível de geocodificação do domicílio ou estabelecimento que podem ser:
+
   1=Endereço - coordenada original do Censo 2022
   2=Endereço - coordenada modificada (apartamentos em um mesmo número no logradouro*)
   3=Endereço - coordenada estimada (endereços originalmente sem coordenadas ou coordenadas inválidas**)
