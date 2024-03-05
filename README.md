@@ -39,7 +39,7 @@ LATITUDE =  Variávem com a Latitude da Coordenada de Localização da Espécie 
 
 LONGITUDE = Variávem com a Longitude da Coordenada de Localização da Espécie do Endereço;
 
-**NV_GEO_COORD** = Variável com o nível de geocodificação do domicílio ou estabelecimento que podem ser:
+NV_GEO_COORD = Variável com o nível de geocodificação do domicílio ou estabelecimento que podem ser:
 
     1=Endereço - coordenada original do Censo 2022
   
